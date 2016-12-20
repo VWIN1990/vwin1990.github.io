@@ -2,14 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2016/12/19/Hello-Vwin/</loc>
+    <loc>https://github.com/vwin1990/2016/12/19/Hello-Vwin/</loc>
     
-    <lastmod>2016-12-19T03:44:47.695Z</lastmod>
+    <lastmod>2016-12-20T02:50:08.217Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2016/12/19/hello-world/</loc>
+    <loc>https://github.com/vwin1990/about/index.html</loc>
+    
+    <lastmod>2016-12-20T02:02:29.634Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/vwin1990/tags/index.html</loc>
+    
+    <lastmod>2016-12-20T01:54:20.288Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://github.com/vwin1990/2016/12/19/hello-world/</loc>
     
     <lastmod>2016-12-19T03:30:51.650Z</lastmod>
     

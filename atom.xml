@@ -4,9 +4,9 @@
   <subtitle>the blog base on the Hexo blog framework</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2016-12-19T03:44:47.695Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://github.com/vwin1990/"/>
+  <updated>2016-12-20T02:50:08.217Z</updated>
+  <id>https://github.com/vwin1990/</id>
   
   <author>
     <name>Vwin Cai</name>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>Hello Vwin</title>
-    <link href="http://yoursite.com/2016/12/19/Hello-Vwin/"/>
-    <id>http://yoursite.com/2016/12/19/Hello-Vwin/</id>
+    <link href="https://github.com/vwin1990/2016/12/19/Hello-Vwin/"/>
+    <id>https://github.com/vwin1990/2016/12/19/Hello-Vwin/</id>
     <published>2016-12-19T03:42:04.000Z</published>
-    <updated>2016-12-19T03:44:47.695Z</updated>
+    <updated>2016-12-20T02:50:08.217Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to Vwin’blog. The site is just testing for the <a href="https://hexo.io" target="_blank" rel="external">Hexo</a> blog framework base on the GitHub pages.<br>Thanks for your viewing.</p>
 ]]></content>
@@ -32,18 +32,18 @@
     </summary>
     
     
-      <category term="testing for demo" scheme="http://yoursite.com/tags/testing-for-demo/"/>
+      <category term="testing for demo" scheme="https://github.com/vwin1990/tags/testing-for-demo/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/12/19/hello-world/"/>
-    <id>http://yoursite.com/2016/12/19/hello-world/</id>
+    <link href="https://github.com/vwin1990/2016/12/19/hello-world/"/>
+    <id>https://github.com/vwin1990/2016/12/19/hello-world/</id>
     <published>2016-12-19T03:30:51.635Z</published>
     <updated>2016-12-19T03:30:51.650Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>

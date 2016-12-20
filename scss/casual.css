@@ -478,7 +478,8 @@ div.archive {
   display: inline-block; }
 
 .post-content {
-  margin: 10px auto; }
+  margin: 11px auto;
+  display: inline-block; }
   .post-content h2, .post-content h3 {
     font-size: 20px; }
   .post-content h4, .post-content h5, .post-content h6 {
@@ -793,7 +794,8 @@ footer {
   height: 50px; }
 
 .sidebar a.title-link {
-  color: white; }
+  color: white;
+  font-size: 25px; }
 
 .sidebar a.title-link:hover {
   color: #ccc; }
